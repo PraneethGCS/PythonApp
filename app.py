@@ -1,5 +1,6 @@
 # A simple, self-contained Python application (app.py) for calculating
 # Compound Interest without external file input or continuous user interaction.
+#Third line
 
 import math
 
